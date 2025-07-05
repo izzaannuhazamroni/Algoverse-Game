@@ -29,4 +29,5 @@ MemoryCaptures/
 
 # OS-generated files
 .DS_Store
-Thumbs.db
+Thumbs.db"Assets/Firebase/Plugins/x86_64/*.so" 
+"Assets/Firebase/Plugins/x86_64/*.bundle" 
