@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 34ed4f32fd81bba47aefa6e9dcf3e703
+  m_SerializeEntries:
+  - m_GUID: 070547be8f9b46a468b026fee75cf167
+    m_Address: QuitToDesktop
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25d79b10fbcc56c4ea6845a526b6d295
+    m_Address: Gampelay
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 405dbad79276b10469cfb0e461ada78e
+    m_Address: ENGMadingStage1.2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4202880b2bc76d843a43222dcdff8a90
+    m_Address: Group 54
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4320e16eac151ef409b5aea5cf97ac07
+    m_Address: FINAL TEST
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53499ad3de5f96c41857b406ca66c799
+    m_Address: ENGMadingStage1.1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55965b4b63aa7f94fb9bdac5c1c5d656
+    m_Address: ENG
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f0380e3d715db149986539cac9c4688
+    m_Address: ENGHintsTypeData
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8eaf9680c60187144bf9c2c9310da729
+    m_Address: Group 56
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90a677ae4ccb9c84c84a596384ec0dcd
+    m_Address: Group 58
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90c62aed7127cca4683cdb9787d903d3
+    m_Address: What is the main difference between a list and a tuple in Python_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 913d44870513ee945b327c4b99a68da5
+    m_Address: Which of the following is a basic data type in most programming languages
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdbd3b70b439b2d408656bb7600f151c
+    m_Address: Which statement is correct about data types in Python_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7381070edd908d47899d5ccdcfd2395
+    m_Address: Settings
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbbd249bc6287d44d95d8706aa83a06a
+    m_Address: Group 7
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e59b8bb4077661f479c2630cdff661a8
+    m_Address: BacktoMain
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e68f44b7d1d2f6749bd5e94b58bb6855
+    m_Address: How do you declare an array in Python using built-in data types_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e68ffe6c3cc5a6e499e4f567e2c86356
+    m_Address: Which data type is used to store True or False values_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecd491dcbc322fb46abdfca316a1a4ad
+    m_Address: ENGAbout
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f46bd884f6287054ca57b53a8412e6c8
+    m_Address: In Python, which data type is used to store decimal numbers_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 3ce002de9f1e02747b2e811c8ef70582, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3241f065dc923a34999e9f3371a192fb, type: 2}
+    - {fileID: 11400000, guid: 1a9fe6e0ea1ecda47a3e069c3a688e6b, type: 2}

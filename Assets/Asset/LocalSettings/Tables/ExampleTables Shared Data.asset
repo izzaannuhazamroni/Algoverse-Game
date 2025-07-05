@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ExampleTables Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ExampleTables
+  m_TableCollectionNameGuidString: d944742a2b4213b4598d36265d3b62a7
+  m_Entries:
+  - m_Id: 19348787200
+    m_Key: ExitTittle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4254144598016
+    m_Key: ExitQuestion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4366778437632
+    m_Key: ExitBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434919100416
+    m_Key: CancelBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106183357042688
+    m_Key: LangBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106396360577024
+    m_Key: MuteBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107118317735936
+    m_Key: ResetBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107616294866944
+    m_Key: MusBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107855768653824
+    m_Key: SFXBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377527776776192
+    m_Key: HowToBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377664456560640
+    m_Key: SettingsBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377728331616256
+    m_Key: ExitGameBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377880211558400
+    m_Key: StartBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10801797765992448
+    m_Key: TimeCanvas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10801866221228032
+    m_Key: SkorCanvas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10801944533078016
+    m_Key: HealthCanvas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11502764023025664
+    m_Key: HintNPC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11505543575703552
+    m_Key: HintPress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11807860174819328
+    m_Key: KTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11809754364448768
+    m_Key: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11809827659911168
+    m_Key: Orientation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11809951387684864
+    m_Key: Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13850093497552896
+    m_Key: DialogHint
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4984027205739741208
+  references:
+    version: 2
+    RefIds:
+    - rid: 4984027205739741208
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1747385219861

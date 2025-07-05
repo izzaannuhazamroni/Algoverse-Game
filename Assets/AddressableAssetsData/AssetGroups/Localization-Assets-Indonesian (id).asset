@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Indonesian (id)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Indonesian (id)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c945aa3cfa8bb454f962b6543eac462d
+  m_SerializeEntries:
+  - m_GUID: 0501b359d1bd8884fb0f97d1bdb22ab2
+    m_Address: Bagaimana cara mendeklarasikan array dalam Python menggunakan tipe
+      data bawaan_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b96516ac24c88f41b7a582584524626
+    m_Address: Group 55
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ff285fa223dcfc4eaf3727cdeb586ca
+    m_Address: Dalam Python, tipe data apakah yang digunakan untuk menyimpan angka
+      desimal_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4256bf431a049c844b5cb1df6071d85d
+    m_Address: TES FINAL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 478968302e03f3c4db9c057c29d3bcd9
+    m_Address: Gampelay-1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6207fce65bb08dc489cdb6b7e5ef5236
+    m_Address: Manakah yang benar tentang tipe data dalam Python_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a3c670fc718eaf40922179c96f9d71b
+    m_Address: INAAbout
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88ce2aa0654c3d343964dc5d627ca97b
+    m_Address: INAMadingStage1.1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9509b54e14ecbba448408afd8d33f33e
+    m_Address: Apa perbedaan utama antara list dan tuple dalam Python_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95d17eb575f16ed4e8accfe459328f6a
+    m_Address: Group 53
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9db31fb25a82de946b5630886317e3ae
+    m_Address: Group 9
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0c0f509e20ac704cb59557a32a9fe27
+    m_Address: Pengaturan
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a88cb832e24ade4438c4390ec9e23c6a
+    m_Address: KembalikeMenu
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b85453c35822efb40997901ffe2219ae
+    m_Address: INAHintsTypeData
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d563e7d884b70b048ba4911f19f28dd0
+    m_Address: INA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7c975cb804d55947817c8d5625f2e83
+    m_Address: Tipe data apakah yang digunakan untuk menyimpan nilai True atau False_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e925667da52945247858d6d8af603025
+    m_Address: KeluardariPermainan
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec5c83a4a56c57f4b8a45e8509f0b060
+    m_Address: Group 57
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3aa3e96cfbf08e4a80fc5901be1f004
+    m_Address: Manakah dari berikut ini yang termasuk tipe data dasar di sebagian
+      besar bahasa pemrograman_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd17af40b60e8a7449e57caaec5a62f8
+    m_Address: INAMadingStage1.2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 3ce002de9f1e02747b2e811c8ef70582, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4f65c14156600ce4198ecd3214b4e5a8, type: 2}
+    - {fileID: 11400000, guid: 4980354fbcca563468ca7da210fcd075, type: 2}

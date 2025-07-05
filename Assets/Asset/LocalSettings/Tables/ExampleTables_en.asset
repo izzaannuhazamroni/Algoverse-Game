@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ExampleTables_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d944742a2b4213b4598d36265d3b62a7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19348787200
+    m_Localized: EXIT GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4254144598016
+    m_Localized: Are you sure you want to Exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4366778437632
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434919100416
+    m_Localized: CANCEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106183357042688
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106396360577024
+    m_Localized: Mute All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107118317735936
+    m_Localized: Reset All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107616294866944
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107855768653824
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377527776776192
+    m_Localized: How To Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377664456560640
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377728331616256
+    m_Localized: Exit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377880211558400
+    m_Localized: START!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10801797765992448
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10801866221228032
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10801944533078016
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11502764023025664
+    m_Localized: Find the NPC in this hallway!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11505543575703552
+    m_Localized: Press keyboard to Interract
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11807860174819328
+    m_Localized: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11809754364448768
+    m_Localized: Player Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11809827659911168
+    m_Localized: Player Orientation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11809951387684864
+    m_Localized: Player Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13850093497552896
+    m_Localized: Press "N" to continue
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

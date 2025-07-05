@@ -1,0 +1,32 @@
+# Unity folders to ignore
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+.vs/
+.plastic/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.unityproj
+*.suo
+*.userprefs
+
+# Unity build output
+*.apk
+*.exe
+*.dll
+*.pdb
+
+# VSCode
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db

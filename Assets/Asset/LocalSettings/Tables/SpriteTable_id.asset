@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: SpriteTable_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 9e406292ccc9d3143bc49e2aa42b8601, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 145861578752
+    m_Localized: a0c0f509e20ac704cb59557a32a9fe27[Pengaturan]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270998268481536
+    m_Localized: 7a3c670fc718eaf40922179c96f9d71b[INAAbout]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9638043560906752
+    m_Localized: b85453c35822efb40997901ffe2219ae[INAHintsTypeData]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10432213951123456
+    m_Localized: fd17af40b60e8a7449e57caaec5a62f8[INAMadingStage1.2]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10477078470660096
+    m_Localized: 88ce2aa0654c3d343964dc5d627ca97b[INAMadingStage1.1]
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
